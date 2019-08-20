@@ -6,4 +6,4 @@ the user in real-time.
 ## Building the application locally
 1. Install [PyTorch](https://pytorch.org/).
 2. Install [Kivy](https://kivy.org/doc/stable/installation/installation-linux.html).
-3. Open terminal and type `python3 ai.py`.
+3. Open terminal and type `python3 map.py`.
